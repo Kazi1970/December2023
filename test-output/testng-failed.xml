@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Regression Test]" guice-stage="DEVELOPMENT">
+  <test name="Google Search">
+    <classes>
+      <class name="runners.TestRunner"/>
+    </classes>
+  </test> <!-- Google Search -->
+</suite> <!-- Failed suite [Regression Test] -->
